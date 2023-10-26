@@ -1,0 +1,3 @@
+[submodule "clif"]
+	path = clif
+	url = https://github.com/google/clif.git
